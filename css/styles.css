@@ -1,0 +1,44 @@
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+.bottom-container {
+  text-align: center;
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  margin: 90px auto auto auto;
+}
+
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.9rem;
+  padding: 20px 0;
+}
